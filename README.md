@@ -6,6 +6,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 * [Agent Development Kit](https://google.github.io/adk-docs/) #LangChain4j #google
 * [LangGraph4j](https://github.com/langgraph4j/langgraph4j) #vorburger:ToDo
+* [JavaAI workflow](https://github.com/czelabueno/jai-workflow)
 * [Koog](https://docs.koog.ai) #kotlin
 * [Embabel](https://github.com/embabel/embabel-agent) #kotlin
 
@@ -24,6 +25,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 ## ML
 
+* [DeepNets / Deep Learning Java](https://www.deepnetts.com/) library
 * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) #ML #eclipsefdn
 * [OpenNLP](https://opennlp.apache.org) #NLP #apache
 * [Neuroph](https://neuroph.sourceforge.net) #ML
