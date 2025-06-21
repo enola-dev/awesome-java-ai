@@ -23,6 +23,11 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 * [Java SDK for Model Context Protocol servers and clients](https://github.com/modelcontextprotocol/java-sdk) #MCP
 
+## Varia
+
+* https://github.com/google/genc #vorburger:ToDo _How does this fit?_
+  https://github.com/google/dotprompt (see its [issue #301](https://github.com/google/dotprompt/issues/301) re. Java support)
+
 ## ML
 
 * [DeepNets / Deep Learning Java](https://www.deepnetts.com/) library
