@@ -23,6 +23,11 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 * [Java SDK for Model Context Protocol servers and clients](https://github.com/modelcontextprotocol/java-sdk) #MCP
 
+## Local Inference
+
+* https://github.com/mukel/llama3.java
+* https://github.com/tjake/Jlama
+
 ## ML
 
 * [DeepNets / Deep Learning Java](https://www.deepnetts.com/) library
