@@ -26,6 +26,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 ## Local Inference
 
 * https://github.com/mukel/llama3.java
+* https://github.com/beehive-lab/GPULlama3.java
 * https://github.com/tjake/Jlama
 
 ## ML
