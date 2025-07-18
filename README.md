@@ -12,7 +12,9 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 ## A2A
 
-* [Java A2A SDK](https://github.com/fjuma/a2a-java-sdk/) (for [TCK](https://github.com/maeste/a2a-tck)) #A2A #vorburger:ToDo
+* [a2aproject](https://github.com/a2aproject/a2a-java-sdk/) (for [TCK](https://github.com/maeste/a2a-tck)) #A2A #vorburger:ToDo
+* [a2ap/a2a4j](https://github.com/a2ap/a2a4j)
+* [a2a-4k](https://github.com/a2a-4k/a2a-4k) #kotlin ([example](https://github.com/a2a-4k/a2a-4k/blob/main/examples/src/jvmMain/kotlin/ArcExample.kt#L20-L39))
 
 ## Frameworks
 
