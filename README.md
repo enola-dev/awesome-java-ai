@@ -41,5 +41,11 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 ## Related
 
+Java specific:
+
 1. https://github.com/akullpp/awesome-java#artificial-intelligence
 1. https://github.com/enola-dev/awesome-java-rdf
+
+### Non-Java
+
+* https://github.com/pab1it0/awesome-a2a
