@@ -7,8 +7,9 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 * [Agent Development Kit](https://google.github.io/adk-docs/) #LangChain4j #google
 * [LangGraph4j](https://github.com/langgraph4j/langgraph4j)
 * [JavaAI workflow](https://github.com/czelabueno/jai-workflow)
-* [Koog](https://docs.koog.ai) #kotlin
-* [Embabel](https://github.com/embabel/embabel-agent) #kotlin #java @johnsonr
+* [Koog](https://docs.koog.ai) #kotlin #JetBrains
+* [Embabel](https://github.com/embabel/embabel-agent) #kotlin #java #spring @johnsonr
+* [LMOS](https://eclipse.dev/lmos/) #kotlin
 
 ## A2A
 
