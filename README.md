@@ -10,6 +10,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 * [Koog](https://docs.koog.ai) #kotlin #JetBrains
 * [Embabel](https://github.com/embabel/embabel-agent) #kotlin #java #spring @johnsonr
 * [LMOS](https://eclipse.dev/lmos/) #kotlin
+* [agents-flex](https://github.com/agents-flex/agents-flex) #china
 
 ## A2A
 
