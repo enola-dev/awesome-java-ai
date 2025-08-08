@@ -5,6 +5,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 ## Agents
 
 * [Agent Development Kit](https://google.github.io/adk-docs/) #LangChain4j #google
+* [LangChain4j agentic module](https://docs.langchain4j.dev/tutorials/agents/ #LangChain4j
 * [LangGraph4j](https://github.com/langgraph4j/langgraph4j)
 * [JavaAI workflow](https://github.com/czelabueno/jai-workflow)
 * [Koog](https://docs.koog.ai) #kotlin #JetBrains
