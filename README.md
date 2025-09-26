@@ -21,6 +21,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 ## Frameworks
 
+* [Enola](https://docs.enola.dev/dev/common/)
 * [LangChain4j](https://docs.langchain4j.dev)
 * [Spring AI](https://spring.io/projects/spring-ai)
 
@@ -31,9 +32,13 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 ## Local Inference
 
 * [ONNX](https://onnxruntime.ai/docs/get-started/with-java.html)
-* https://github.com/mukel/llama3.java
-* https://github.com/beehive-lab/GPULlama3.java
-* https://github.com/tjake/Jlama
+* Llama
+  * https://github.com/ggml-org/llama.cpp
+    * https://github.com/kherud/java-llama.cpp
+    * https://github.com/QuasarByte/llama-cpp-jna
+  * https://github.com/mukel/llama3.java
+  * https://github.com/beehive-lab/GPULlama3.java
+  * https://github.com/tjake/Jlama
 
 ## ML
 
