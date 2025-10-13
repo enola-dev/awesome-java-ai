@@ -5,6 +5,8 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 ## Agents
 
 * [Agent Development Kit](https://google.github.io/adk-docs/) #LangChain4j #google
+  * https://speakerdeck.com/glaforge/building-ai-agents-with-adk-for-java (and https://www.youtube.com/watch?v=L6V6aQixOZU&t=2511s)
+  * https://codelabs.developers.google.com/adk-java-getting-started
 * [LangChain4j agentic module](https://docs.langchain4j.dev/tutorials/agents/) #LangChain4j
 * [LangGraph4j](https://github.com/langgraph4j/langgraph4j)
 * [JavaAI workflow](https://github.com/czelabueno/jai-workflow)
