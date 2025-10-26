@@ -44,8 +44,10 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 ## ML
 
+* [Weka](https://waikato.github.io/weka-wiki/) #ML #NZ #edu
+* [Tribuo](https://tribuo.org) #ML #oracle
 * [DeepNets / Deep Learning Java](https://www.deepnetts.com/) library
-* [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) #ML #eclipsefdn
+* [Deeplearning4j](https://deeplearning4j.konduit.ai) #ML #eclipsefdn
 * [OpenNLP](https://opennlp.apache.org) #NLP #apache
 * [Neuroph](https://neuroph.sourceforge.net) #ML
 * [Encog](https://www.heatonresearch.com/encog/) #ML
