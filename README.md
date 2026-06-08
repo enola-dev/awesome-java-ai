@@ -30,6 +30,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 ## MCP
 
 * [Java SDK for Model Context Protocol servers and clients](https://github.com/modelcontextprotocol/java-sdk) #MCP
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agent wallets on Solana. `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` #MCP #Solana #x402
 
 ## Local Inference
 
