@@ -27,6 +27,10 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 * [LangChain4j](https://docs.langchain4j.dev)
 * [Spring AI](https://spring.io/projects/spring-ai)
 
+## Eval
+
+* [Dokimos - LLM evaluation framework for Java and Kotlin](https://dokimos.dev)
+
 ## MCP
 
 * [Java SDK for Model Context Protocol servers and clients](https://github.com/modelcontextprotocol/java-sdk) #MCP
