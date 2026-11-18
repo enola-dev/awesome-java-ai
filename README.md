@@ -25,6 +25,7 @@ Curated list of #awesome Artificial Intelligence (#AI), Machine Learning (#ML) a
 
 * [Enola](https://docs.enola.dev/dev/common/)
 * [LangChain4j](https://docs.langchain4j.dev)
+* [LLM API SDK](https://github.com/yidasanqian/llm-api-sdk-java) #java #gateway
 * [Spring AI](https://spring.io/projects/spring-ai)
 
 ## Eval
